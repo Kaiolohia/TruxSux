@@ -1,4 +1,4 @@
-#### Hi! My name is Kai (Trux) and I am a 17 y/o Fullstack dev student, I am currently enrolled in the [springboard](https://www.springboard.com/) software development program!
+#### Hi! My name is Kai (Trux) and I am a 18 y/o Fullstack dev student, I recently graduated from the [springboard](https://www.springboard.com/) software development program!
 Most of my repos at the moment are mainly for my course and display what project I am currently working on for it, *aka... they are practices*
 ***
 You can find me on discord at Trux#0001 if you have an questions about any of my work
